@@ -223,6 +223,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/arubaslim/proprietary/lib/libchromatix_ov2720_default_video.so:system/lib/libchromatix_ov2720_default_video.so \
     vendor/samsung/arubaslim/proprietary/lib/libqmi.so:system/lib/libqmi.so \
     vendor/samsung/arubaslim/proprietary/lib/libqmi_csvt_srvc.so:system/lib/libqmi_csvt_srvc.so \
+    device/samsung/delos3geur/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/samsung/arubaslim/proprietary/usr/keychars/7x27a_kp.kcm:system/usr/keychars/7x27a_kp.kcm \
     vendor/samsung/arubaslim/proprietary/usr/keylayout/atmel_mxt_ts.kl:system/usr/keylayout/atmel_mxt_ts.kl \
     vendor/samsung/arubaslim/proprietary/usr/keylayout/7x27a_kp.kl:system/usr/keylayout/7x27a_kp.kl \
